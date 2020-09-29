@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\Bela\\Desktop\\GlutenfreiesKochen"
+		},
+		{
+			"path": "C:\\Users\\Bela\\Desktop\\css2-20200106T131319Z-001\\css2"
+		},
+		{
+			"path": "C:\\Users\\Bela\\Desktop\\test"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\Users\\Bela\\Desktop\\trydjango"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "GlutenfreiesKochen",
+		"python.pythonPath": "python3"
+	}
+}
